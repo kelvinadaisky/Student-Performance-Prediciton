@@ -1,7 +1,3 @@
-Here is a summary with added style to improve readability:
-
----
-
 # Decision Tree Regressor for Student Performance Prediction
 
 This Jupyter Notebook demonstrates how to use a Decision Tree Regressor to predict student performance based on various features. The workflow includes the following steps:
@@ -32,7 +28,3 @@ This Jupyter Notebook demonstrates how to use a Decision Tree Regressor to predi
 - **Optimized R2 Score**: 0.78
 
 You can view the full notebook [here](https://github.com/kelvinadaisky/Data-Mining/blob/main/Decision%20tree.ipynb).
-
----
-
-This should help make the summary more readable and structured for your README file.
